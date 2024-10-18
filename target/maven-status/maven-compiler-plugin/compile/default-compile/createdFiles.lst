@@ -1,0 +1,5 @@
+com\upiiz\examen_01\controllers\ProductosController.class
+com\upiiz\examen_01\models\Productos.class
+com\upiiz\examen_01\repository\ProductosRrepository.class
+com\upiiz\examen_01\Examen01Application.class
+com\upiiz\examen_01\services\ProductosServices.class
